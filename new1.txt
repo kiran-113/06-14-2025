@@ -2,8 +2,9 @@ sample
 
 simpe
 
-git pull
+git pull -- git
 
 git clone
 
 git push 
+
