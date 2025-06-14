@@ -1,5 +1,7 @@
-git init
+git init --  only one time
 
-git sattus
+git satus ---
 
 git add .
+
+git commit -m "some message"
